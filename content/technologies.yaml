@@ -1,0 +1,137 @@
+# Technologies — slug → display name → related skill
+# Used for project filtering and cross-linking.
+
+- slug: java
+  name: Java
+  category: language
+  related_skill: Java
+
+- slug: spring-boot
+  name: Spring Boot
+  category: framework
+  related_skill: Spring Boot
+
+- slug: python
+  name: Python
+  category: language
+  related_skill: Python
+
+- slug: fastapi
+  name: FastAPI
+  category: framework
+  related_skill: FastAPI
+
+- slug: flask
+  name: Flask
+  category: framework
+  related_skill: Flask
+
+- slug: dotnet
+  name: .NET
+  category: framework
+  related_skill: C# / .NET
+
+- slug: node
+  name: Node.js
+  category: language
+  related_skill: Node.js
+
+- slug: mysql
+  name: MySQL
+  category: database
+  related_skill: MySQL
+
+- slug: oracle
+  name: Oracle
+  category: database
+  related_skill: Oracle
+
+- slug: clickhouse
+  name: ClickHouse
+  category: database
+  related_skill: ClickHouse
+
+- slug: dynamodb
+  name: DynamoDB
+  category: database
+  related_skill: DynamoDB
+
+- slug: aws
+  name: AWS
+  category: cloud
+  related_skill: AWS
+
+- slug: openshift
+  name: OpenShift
+  category: cloud
+  related_skill: OpenShift
+
+- slug: docker
+  name: Docker
+  category: devops
+  related_skill: Docker
+
+- slug: kubernetes
+  name: Kubernetes
+  category: devops
+  related_skill: Kubernetes
+
+- slug: github-actions
+  name: GitHub Actions
+  category: devops
+  related_skill: CI/CD
+
+- slug: grafana
+  name: Grafana
+  category: devops
+  related_skill: Grafana
+
+- slug: k6
+  name: k6
+  category: devops
+  related_skill: k6
+
+- slug: rabbitmq
+  name: RabbitMQ
+  category: messaging
+  related_skill: RabbitMQ
+
+- slug: claude
+  name: Claude / Anthropic API
+  category: ai
+  related_skill: Claude / Anthropic API
+
+- slug: github-copilot
+  name: GitHub Copilot
+  category: ai
+  related_skill: null
+
+- slug: spec-kit
+  name: Spec Kit
+  category: ai
+  related_skill: null
+
+- slug: mcp
+  name: Model Context Protocol
+  category: ai
+  related_skill: null
+
+- slug: prompt-engineering
+  name: Prompt Engineering
+  category: ai
+  related_skill: null
+
+- slug: junit
+  name: JUnit
+  category: testing
+  related_skill: JUnit
+
+- slug: pytest
+  name: pytest
+  category: testing
+  related_skill: pytest
+
+- slug: testcontainers
+  name: Testcontainers
+  category: testing
+  related_skill: Testcontainers

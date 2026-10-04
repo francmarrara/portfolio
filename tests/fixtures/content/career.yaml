@@ -1,0 +1,39 @@
+- role: Senior Software Engineer
+  company: Acme Corp
+  company_url: https://acme.example.com
+  start: 2022-07
+  end: null
+  location: Remote
+  type: Full-time
+  summary: Leads a small team and delivers backend systems.
+  responsibilities:
+    - Technical mentoring
+    - Code review
+  achievements:
+    - Cut the release time in half
+  phases:
+    - label: Phase one — Java
+      period: 2022-07 → ~2023
+      client_sector: Energy
+      tech: [java, spring-boot, mysql]
+    - label: Phase two — Python
+      period: ~2023 → present
+      client_sector: Automotive
+      tech: [python, aws, claude]
+  ai_work:
+    - Leads the move to agentic programming
+- role: Software Engineer
+  company: Legacy Ltd
+  start: 2019-05-06
+  end: 2022-07
+  location: Cosenza, Italy
+  type: Full-time
+  summary: Worked on a data platform.
+  progression:
+    - title: Junior Software Engineer
+      focus: Java backend
+    - title: Software Engineer
+      focus: Registry services
+  tech: [java, mysql]
+  notes:
+    - ClickHouse used for analytics

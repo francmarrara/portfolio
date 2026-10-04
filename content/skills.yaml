@@ -1,0 +1,95 @@
+# Skills grouped by category
+# Levels: expert > advanced > intermediate > basic
+
+languages:
+  - name: Java
+    level: expert
+    since: 2019
+    versions: "7 → latest LTS"
+    notes: Core stack, Spring ecosystem, microservices
+    highlight: true
+  - name: Python
+    level: intermediate
+    since: ~2023
+    notes: FastAPI, Flask
+    highlight: true
+  - name: Node.js
+    level: intermediate
+    notes: Backend services, tooling
+  - name: C# / .NET
+    level: basic
+    period: 2020 → 2022
+  - name: TypeScript / JavaScript
+    level: basic
+    notes: Angular and Vue, junior level
+
+frameworks:
+  - name: Spring Boot
+    level: expert
+    notes: REST APIs, DI, security, actuator, testing
+    highlight: true
+  - name: FastAPI
+    level: intermediate
+  - name: Flask
+    level: intermediate
+
+cloud:
+  - name: AWS
+    level: intermediate
+    services: [ECS, Lambda, DynamoDB, RDS, S3, CloudFront]
+    highlight: true
+  - name: OpenShift
+    level: intermediate
+    notes: Deploy, configuration, troubleshooting
+
+databases:
+  - name: MySQL
+    level: expert
+  - name: Oracle
+    level: expert
+  - name: ClickHouse
+    level: basic
+    notes: Analytics and reporting use cases
+  - name: DynamoDB
+    level: intermediate
+
+devops:
+  - name: Docker
+    level: expert
+  - name: Kubernetes
+    level: expert
+    notes: OpenShift-based deployments
+  - name: CI/CD
+    level: intermediate
+    notes: GitHub Actions, pipelines
+  - name: Maven
+    level: expert
+  - name: Git
+    level: expert
+  - name: Grafana
+    level: intermediate
+  - name: k6
+    level: intermediate
+    notes: Load testing
+
+messaging:
+  - name: RabbitMQ
+    level: intermediate
+
+ai:
+  - name: Claude / Anthropic API
+    level: expert
+    notes: Tool use, MCP, agentic workflows
+  - name: Agentic programming
+    level: expert
+    notes: Currently leading team transition from standard to agentic development
+    highlight: true
+
+testing:
+  - name: JUnit
+    level: expert
+    notes: JUnit 5, AssertJ, Mockito
+  - name: pytest
+    level: intermediate
+  - name: Testcontainers
+    level: intermediate

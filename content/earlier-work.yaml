@@ -1,0 +1,46 @@
+# Earlier work — compact entries without full case studies.
+# Shown as a list in the "Earlier work" section of the portfolio.
+
+- title: B2B Data Platform
+  company: NTT Data
+  period: 2019 → 2020
+  sector: Data aggregation — Italian market
+  role: Junior Software Engineer
+  summary: >
+    Platform aggregating Italian companies by VAT number for authorised
+    redistribution to entitled third parties. Worked on backend services
+    and data ingestion.
+  stack: [java, spring-boot, mysql, oracle]
+
+- title: Company Registry & Rating Services
+  company: NTT Data
+  period: 2020 → 2022
+  sector: Data aggregation — Italian market
+  role: Software Engineer
+  summary: >
+    Suite of services for company registry retrieval and business rating,
+    built on .NET for the same client as the previous project. Used
+    ClickHouse for analytics and reporting workloads.
+  stack: [dotnet, mysql, oracle, clickhouse]
+
+- title: Energy Sector Backend — Java & Spring Boot
+  company: Avvale
+  period: 2022 → 2023
+  sector: Energy — Oil & Gas, then Renewables
+  role: Senior Software Engineer
+  summary: >
+    Backend services for a major European energy client, initially focused on
+    Oil & Gas and later extended to renewables. Relational data modeling and
+    service development in Java/Spring Boot.
+  stack: [java, spring-boot, mysql, oracle]
+
+- title: Energy & Automotive — Java on OpenShift
+  company: Avvale
+  period: 2023 → 2024
+  sector: Energy (Renewables) & Automotive (tyres)
+  role: Senior Software Engineer
+  summary: >
+    Delivered and maintained Java services on OpenShift for energy and
+    automotive clients, with direct client interaction on the automotive
+    engagement. Focus on containerized deployments and cross-team coordination.
+  stack: [java, spring-boot, openshift, mysql]

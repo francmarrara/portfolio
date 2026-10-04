@@ -1,0 +1,36 @@
+languages:
+  - name: Java
+    level: expert
+    since: 2019
+    versions: "7 → latest LTS"
+    highlight: true
+  - name: Python
+    level: intermediate
+    since: ~2023
+frameworks:
+  - name: Spring Boot
+    level: expert
+    highlight: true
+cloud:
+  - name: AWS
+    level: intermediate
+    services: [ECS, Lambda]
+    highlight: true
+  - name: OpenShift
+    level: intermediate
+databases:
+  - name: MySQL
+    level: expert
+devops:
+  - name: Docker
+    level: advanced
+messaging:
+  - name: RabbitMQ
+    level: basic
+ai:
+  - name: Claude / Anthropic API
+    level: expert
+testing:
+  - name: JUnit
+    level: expert
+    period: 2019 → present

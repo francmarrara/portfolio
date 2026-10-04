@@ -1,0 +1,40 @@
+- slug: java
+  name: Java
+  category: language
+  related_skill: Java
+- slug: python
+  name: Python
+  category: language
+  related_skill: Python
+- slug: spring-boot
+  name: Spring Boot
+  category: framework
+  related_skill: Spring Boot
+- slug: aws
+  name: AWS
+  category: cloud
+  related_skill: AWS
+- slug: openshift
+  name: OpenShift
+  category: cloud
+  related_skill: OpenShift
+- slug: mysql
+  name: MySQL
+  category: database
+  related_skill: MySQL
+- slug: docker
+  name: Docker
+  category: devops
+  related_skill: Docker
+- slug: rabbitmq
+  name: RabbitMQ
+  category: messaging
+  related_skill: RabbitMQ
+- slug: claude
+  name: Claude
+  category: ai
+  related_skill: Claude / Anthropic API
+- slug: junit
+  name: JUnit
+  category: testing
+  related_skill: null

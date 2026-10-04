@@ -1,0 +1,35 @@
+- title: B2B Data Platform
+  company: Legacy Ltd
+  period: 2019 → 2020
+  sector: Data aggregation
+  role: Junior Software Engineer
+  summary: Platform that aggregates companies by VAT number.
+  stack: [java, spring-boot, mysql]
+- title: Registry Services
+  company: Legacy Ltd
+  period: 2020 → 2022
+  sector: Data aggregation
+  role: Software Engineer
+  summary: Services for company registry retrieval.
+  stack: [java, mysql]
+- title: Energy Backend
+  company: Acme Corp
+  period: 2022 → 2023
+  sector: Energy
+  role: Senior Software Engineer
+  summary: Backend services for an energy client.
+  stack: [java, spring-boot]
+- title: Python Services
+  company: Acme Corp
+  period: ~2023 → present
+  sector: Automotive
+  role: Senior Software Engineer
+  summary: Python services on AWS.
+  stack: [python, aws]
+- title: OpenShift Delivery
+  company: Acme Corp
+  period: 2023 → 2024
+  sector: Energy
+  role: Senior Software Engineer
+  summary: Java services on OpenShift.
+  stack: [java, openshift]

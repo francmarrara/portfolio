@@ -1,0 +1,56 @@
+# Career history — reverse chronological order (most recent first)
+
+- role: Senior Software Engineer
+  company: Avvale
+  company_url: https://www.avvale.com
+  start: 2022-07
+  end: null
+  location: "Full remote from home (Terranova Sappo Minulio, RC) — reference office: Rome"
+  type: Full-time
+  summary: >
+    Senior engineer with team responsibility and mentoring duties. Works across
+    Java/Spring Boot, OpenShift and Python/AWS stacks, delivering backend systems
+    for European energy and automotive clients. Currently leading the team's
+    transition from traditional to agentic programming.
+  responsibilities:
+    - Technical mentoring of junior and mid-level engineers
+    - Code review across the team's projects
+    - Direct client interaction on automotive engagements
+  phases:
+    - label: Energy — Java & Spring Boot
+      period: 2022-07 → ~2023
+      client_sector: Oil & Gas, then Renewables
+      tech: [java, spring-boot, mysql, oracle]
+    - label: Energy & Automotive — Java & OpenShift
+      period: ~2023 → ~2024
+      client_sector: Renewables, Automotive (tyres)
+      tech: [java, spring-boot, openshift, mysql]
+    - label: Energy & Automotive — Python & AWS
+      period: ~2024 → present
+      client_sector: Renewables, Automotive (tyres)
+      tech: [python, fastapi, aws, dynamodb, mysql, claude]
+  ai_work:
+    - Leading internal initiative to transition the team from standard to agentic programming
+    - Hands-on use of Claude and tool-based AI workflows in day-to-day engineering
+
+- role: "Software Engineer (progression: Junior → Software Engineer)"
+  company: NTT Data
+  company_url: https://it.nttdata.com
+  start: 2019-05-06
+  end: 2022-07
+  location: Cosenza, Italy
+  type: Full-time
+  summary: >
+    Worked on a B2B data platform aggregating Italian companies by VAT number for
+    authorised redistribution. Started on Java/Spring Boot, later moved to .NET
+    on a different project for the same client, covering company registry retrieval
+    and business rating services.
+  progression:
+    - title: Junior Software Engineer
+      focus: Java & Spring Boot — B2B data platform
+    - title: Software Engineer
+      focus: .NET — company registry & rating services (same client, different project)
+  tech: [java, spring-boot, dotnet, mysql, oracle, clickhouse]
+  notes:
+    - ClickHouse used for both analytics and reporting
+    - Positive feedback received from clients and managers (no formal KPIs tracked)

@@ -1,0 +1,15 @@
+{
+  "version": "1.0.13",
+  "integration_state_schema": 1,
+  "installed_integrations": [
+    "droid"
+  ],
+  "integration_settings": {
+    "droid": {
+      "script": "sh",
+      "invoke_separator": "-"
+    }
+  },
+  "integration": "droid",
+  "default_integration": "droid"
+}
